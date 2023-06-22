@@ -8,3 +8,4 @@ Problems and Solutions of Python
  - 5 Greatest of Numbers
  - 6 Greatest of 3 Numbers
  - 7 Leap Year Or Not
+ - 8 Prime Number Or Not
