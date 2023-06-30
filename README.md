@@ -10,3 +10,4 @@ Problems and Solutions of Python
  - 7 Leap Year Or Not
  - 8 Prime Number Or Not
  - 9 Prime Number Given in Range
+ - 10 Sum of Digits Number
