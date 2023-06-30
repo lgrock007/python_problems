@@ -9,3 +9,4 @@ Problems and Solutions of Python
  - 6 Greatest of 3 Numbers
  - 7 Leap Year Or Not
  - 8 Prime Number Or Not
+ - 9 Prime Number Given in Range
