@@ -14,3 +14,5 @@ Problems and Solutions of Python
  - 11 Reversed a Number
  - 12 Reversed a String
  - 13 Palindromic Value
+ - 14 Armstrong Number
+ - 15 Armstrong Number Given in Range
