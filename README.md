@@ -11,3 +11,6 @@ Problems and Solutions of Python
  - 8 Prime Number Or Not
  - 9 Prime Number Given in Range
  - 10 Sum of Digits Number
+ - 11 Reversed a Number
+ - 12 Reversed a String
+ - 13 Palindromic Value

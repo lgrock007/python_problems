@@ -1,3 +1,4 @@
+#  Prime numbers in a given range
 a = int(input('Enter the Number A:'))
 b = int(input('Enter the Number B:'))
 print('The primber numbers of ',a,'and',b,'are')
