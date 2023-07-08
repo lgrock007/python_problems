@@ -17,3 +17,5 @@ Problems and Solutions of Python
  - 14 Armstrong Number
  - 15 Armstrong Number Given in Range
  - 16 Fibonacci Series Upto Nth Term
+ - 17 Factorial of a Number
+ - 18 Power of a Number
