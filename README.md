@@ -19,3 +19,7 @@ Problems and Solutions of Python
  - 16 Fibonacci Series Upto Nth Term
  - 17 Factorial of a Number
  - 18 Power of a Number
+ - 19 Factor of a Number
+ - 20 Prime Factors of a Number
+ - 21 Strong Number
+ - 22 Perfect Number
