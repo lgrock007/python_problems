@@ -23,3 +23,4 @@ Problems and Solutions of Python
  - 20 Prime Factors of a Number
  - 21 Strong Number
  - 22 Perfect Number
+ - 23 Perfect Square
