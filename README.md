@@ -24,3 +24,4 @@ Problems and Solutions of Python
  - 21 Strong Number
  - 22 Perfect Number
  - 23 Perfect Square
+ - 24 Auto Morphic Number
