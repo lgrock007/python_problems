@@ -25,3 +25,4 @@ Problems and Solutions of Python
  - 22 Perfect Number
  - 23 Perfect Square
  - 24 Auto Morphic Number
+ - 25 Harshad Number
