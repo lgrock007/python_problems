@@ -26,3 +26,5 @@ Problems and Solutions of Python
  - 23 Perfect Square
  - 24 Auto Morphic Number
  - 25 Harshad Number
+ - 26 Abundant Number
+ - 27 Friendly Pair
